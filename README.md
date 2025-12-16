@@ -1,13 +1,14 @@
-div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Neyek;Computer+Science+Student;Cybersecurity+%26+Linux+Enthusiast;Always+Learning+New+Things" />
-
-</div>
-
----
 
 
 # Hi, I'm **Neyek** 👋
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=16161a&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cybersecurity+%26+Linux+Enthusiast;Always+Learning+New+Things" />
+
+</div>
 
 ## About me
 - Computer science student
