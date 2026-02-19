@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**MA-NOA/MA-NOA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm MA-NOA. I am passionate about development and technology. With a background in various programming languages and frameworks, I love to create efficient and engaging solutions.
 
-Here are some ideas to get you started:
+# Skills
+- **Languages:** Python, JavaScript, C++
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+- **Project One:** A web application that solves XYZ problem. 
+- **Project Two:** A mobile app that connects users in a new way.
+
+# Contact Information
+- **Email:** ma-noa@example.com
+- **LinkedIn:** [MA-NOA LinkedIn](https://www.linkedin.com/in/ma-noa)
+- **GitHub:** [MA-NOA GitHub](https://github.com/MA-NOA)
