@@ -28,15 +28,4 @@ Currently exploring the intersection of security and efficiency — one line of 
 **SSF Encryptor**
 A keyless encryption system — securing data without the overhead of traditional key management.
 
----
 
-### GitHub stats
-
-![Followers](https://img.shields.io/github/followers/MA-NOA?style=flat-square&label=Followers&color=555555)
-![Profile views](https://komarev.com/ghpvc/?username=MA-NOA&style=flat-square&color=555555&label=Profile+views)
-
----
-
-### Connect
-
-Find me on GitHub at [@MA-NOA](https://github.com/MA-NOA) — feel free to explore my repos or open an issue.
