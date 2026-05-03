@@ -32,10 +32,9 @@ A keyless encryption system — securing data without the overhead of traditiona
 
 ### GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MA-NOA&show_icons=true&hide_border=true&title_color=444&text_color=666&icon_color=888&bg_color=f8f8f8&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MA-NOA&show_icons=true&hide_border=true&theme=default&count_private=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MA-NOA&layout=compact&hide_border=true&title_color=444&text_color=666&bg_color=f8f8f8)
-
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MA-NOA&layout=compact&hide_border=true&theme=default)
 ---
 
 ### Connect
