@@ -34,9 +34,10 @@ A keyless encryption system — securing data without the overhead of traditiona
 
 ### GitHub stats
 
-![Followers](https://img.shields.io/github/followers/MA-NOA?style=flat-square&label=Followers&color=555)
-![Public repos](https://img.shields.io/github/repo-count/MA-NOA?style=flat-square&label=Public+repos&color=555)
-![Profile views](https://komarev.com/ghpvc/?username=MA-NOA&style=flat-square&color=555&label=Profile+views)
+### GitHub stats
+
+![Followers](https://img.shields.io/github/followers/MA-NOA?style=flat-square&label=Followers&color=555555)
+![Profile views](https://komarev.com/ghpvc/?username=MA-NOA&style=flat-square&color=555555&label=Profile+views)
 
 ---
 
