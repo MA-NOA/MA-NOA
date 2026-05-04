@@ -32,4 +32,4 @@ A keyless encryption system — securing data without the overhead of traditiona
 
 ### Portfolio
 
-[https://manoa.com](https;//ma-noa.github.io/Portfolio)
+[https://ma-noa.github.io/Portfolio/](https;//ma-noa.github.io/Portfolio/)
