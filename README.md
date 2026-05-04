@@ -27,9 +27,3 @@ Currently exploring the intersection of security and efficiency — one line of 
 
 **SSF Encryptor**
 A keyless encryption system — securing data without the overhead of traditional key management.
-
----
-
-### Portfolio
-
-[https://ma-noa.github.io/Portfolio/](https;//ma-noa.github.io/Portfolio/)
