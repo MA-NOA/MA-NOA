@@ -1,6 +1,6 @@
 # Hey, I'm Irimanoa 👋
 
-CS student curious about cryptography, low-level systems, and building things that matter.
+Mathematics student curious about cryptography, low-level systems, and building things that matter.
 Currently exploring the intersection of security and efficiency — one line of C++ at a time.
 
 ---
@@ -28,4 +28,8 @@ Currently exploring the intersection of security and efficiency — one line of 
 **SSF Encryptor**
 A keyless encryption system — securing data without the overhead of traditional key management.
 
+---
 
+### Portfolio
+
+[https://manoa.com](https;//ma-noa.github.io/Portfolio)
