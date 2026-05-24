@@ -19,11 +19,10 @@ Currently exploring the intersection of security and efficiency — one line of 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cryptography](https://img.shields.io/badge/Cryptography-333333?style=flat-square)
 
 ---
 
 ### Current project
 
-**SSF Encryptor**
+**CEYS Encryptor**
 A keyless encryption system — securing data without the overhead of traditional key management.
