@@ -7,5 +7,4 @@ Currently exploring the intersection of security and efficiency — one line of 
 
 ### Current project
 
-**CEYS Encryptor**
-A keyless encryption system — securing data without the overhead of traditional key management.
+\*\* Learning PCA (Principal Components Analysis)
